@@ -75,7 +75,7 @@ bc-ia-instructores/
 1. No necesitas tener GitHub. Puedes leer todo directamente en esta página.
 2. Los archivos en `/modulos` tienen el contenido de cada sesión.
 3. Los archivos en `/talleres` tienen las actividades prácticas con instrucciones paso a paso.
-4. En `/recursos` encuentras la plantilla de prompts, el glosario y el [catálogo de bootcamps `ergrato-dev`](recursos/bootcamps-ergrato-dev).
+4. En `/recursos` encuentras la plantilla de prompts, el glosario y el **[→ Catálogo de bootcamps `ergrato-dev`](recursos/bootcamps-ergrato-dev)**.
 
 ### Si eres facilitador
 1. Lee primero `recursos/checklist-facilitador.md` — tiene todo lo que necesitas preparar.
