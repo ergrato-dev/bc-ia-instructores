@@ -100,37 +100,43 @@ Duración total(semanas): 9
 Dedicación estimada(semana): 6h
 Estado (completitud): Completo (9/9 semanas)
 
-### 1.1.16 bc-react
+### 1.1.16 bc-python
+Enlace repo: https://github.com/ergrato-dev/bc-python
+Duración total(semanas): 14
+Dedicación estimada(semana): 6h
+Estado (completitud): Completo (14/14 semanas)
+
+### 1.1.17 bc-react
 Enlace repo: https://github.com/ergrato-dev/bc-react
 Duración total(semanas): 20
 Dedicación estimada(semana): 8h
 Estado (completitud): Completo (20/20 semanas)
 
-### 1.1.17 bc-reactnative
+### 1.1.18 bc-reactnative
 Enlace repo: https://github.com/ergrato-dev/bc-reactnative
 Duración total(semanas): 18
 Dedicación estimada(semana): 8h
 Estado (completitud): Completo (18/18 semanas)
 
-### 1.1.18 bc-sql
+### 1.1.19 bc-sql
 Enlace repo: https://github.com/ergrato-dev/bc-sql
 Duración total(semanas): 24
 Dedicación estimada(semana): 8h
 Estado (completitud): Completo (24/24 semanas)
 
-### 1.1.19 bc-tailwindcss
+### 1.1.20 bc-tailwindcss
 Enlace repo: https://github.com/ergrato-dev/bc-tailwindcss
 Duración total(semanas): 12
 Dedicación estimada(semana): 8h
 Estado (completitud): Completo (12/12 semanas)
 
-### 1.1.20 bc-testing
+### 1.1.21 bc-testing
 Enlace repo: https://github.com/ergrato-dev/bc-testing
 Duración total(semanas): 36
 Dedicación estimada(semana): 8h
 Estado (completitud): En progreso (18/36 semanas — 50%)
 
-### 1.1.21 bc-uml
+### 1.1.22 bc-uml
 Enlace repo: https://github.com/ergrato-dev/bc-uml
 Duración total(semanas): 2 sesiones (10h total)
 Dedicación estimada(semana): 5h/sesión
