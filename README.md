@@ -1,4 +1,4 @@
-# bc-ia-instructores
+![bc-ia-instructores](assets/banner.svg)
 
 > **Bootcamp corto · 2.5–3 horas**  
 > IA en desarrollo de contenidos de formación  
