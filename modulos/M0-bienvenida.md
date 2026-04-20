@@ -69,7 +69,7 @@ Proponer 3 acuerdos simples:
 | M0 | Bienvenida | Encuadre y acuerdos ← *estamos acá* |
 | M1 | Fundamentos de IA | Qué es, qué no es, herramientas clave |
 | M2 | Prompting | Técnicas + taller práctico |
-| M3 | Syllabot y repos bc- | Demo de estructura de contenidos |
+| M3 | Repos bc- en GitHub | Demo de estructura de contenidos |
 | M4 | Agentes y MCP | Qué son, para qué sirven |
 | M5 | Cierre | Q&A, recursos, compromisos |
 

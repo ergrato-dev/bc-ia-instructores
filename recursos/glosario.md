@@ -71,9 +71,6 @@ Primera etapa de la formación SENA donde los aprendices asisten al centro de fo
 **RAP**
 Resultado de Aprendizaje. Enunciado que describe qué debe saber hacer un aprendiz al finalizar una unidad de aprendizaje. Ejemplo: "Desarrollar la interfaz de usuario del sistema de información, aplicando estándares de usabilidad, de acuerdo con los requerimientos del proyecto."
 
-**Syllabot**
-Aplicación web desarrollada por el instructor anfitrión que extrae automáticamente los sílabos de los repositorios `bc-` de GitHub y los asigna a fichas del SENA. Disponible en [syllabot.ergrato.dev](https://syllabot.ergrato.dev).
-
 ---
 
 ## Términos de desarrollo / GitHub

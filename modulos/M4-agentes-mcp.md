@@ -78,7 +78,7 @@ Que los participantes distingan entre chatbot y agente IA, entiendan qué proble
 #### Demo: agente + MCP en acción (10 min)
 
 **Opción A — conexión estable:**
-Mostrar Claude Code leyendo el repo `bc-ia-instructores` y generando automáticamente un resumen del sílabo para Syllabot.
+Mostrar Claude Code leyendo el repo `bc-ia-instructores` y generando automáticamente el contenido de un módulo nuevo en Markdown.
 
 **Opción B — demo simplificada:**
 Mostrar Claude.ai con búsqueda web habilitada: buscar recursos actualizados sobre un tema técnico y generar el material de referencia de un módulo.

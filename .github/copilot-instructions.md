@@ -23,7 +23,7 @@ bc-ia-instructores/
 │   ├── M0-bienvenida.md
 │   ├── M1-fundamentos-ia.md
 │   ├── M2-prompting.md
-│   ├── M3-syllabot-repos.md
+│   ├── M3-repos-bc.md
 │   ├── M4-agentes-mcp.md
 │   └── M5-cierre.md
 ├── talleres/                    ← actividades prácticas (T1–T3)

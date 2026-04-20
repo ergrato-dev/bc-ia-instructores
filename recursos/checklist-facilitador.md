@@ -12,8 +12,6 @@
 - [ ] Crear cuentas de prueba en Claude y ChatGPT si no las tienes
 - [ ] Activar la búsqueda web en Claude (herramientas > web search)
 - [ ] Hacer un recorrido completo del repo `bc-ia-instructores` en GitHub
-- [ ] Verificar que Syllabot está funcionando en syllabot.ergrato.dev
-- [ ] Preparar capturas de pantalla de Syllabot como plan B
 - [ ] Imprimir (o compartir digitalmente) el material del participante
 - [ ] Probar todos los prompts de ejemplo en vivo — algunos pueden necesitar ajuste
 
@@ -25,7 +23,6 @@
 - [ ] Abrir en pestañas del navegador (y no cerrar):
   - [ ] github.com/ergrato-dev (lista de repos bc-)
   - [ ] Un repo bc- de ejemplo para el tour
-  - [ ] syllabot.ergrato.dev
   - [ ] claude.ai (sesión iniciada)
   - [ ] modelcontextprotocol.io
 - [ ] Tener el prompt maestro del curso en un documento de texto para copiar rápido
@@ -51,7 +48,6 @@
 | Si falla... | Plan B |
 |-------------|--------|
 | Internet | Tener ejemplos de prompts y outputs ya guardados en el computador |
-| Syllabot | Capturas de pantalla en `assets/syllabot-demo/` |
 | Claude.ai | Usar ChatGPT o Gemini como alternativa |
 | Proyector | Pasar el portátil por las mesas o describir verbalmente |
 | Claude Code | Hacer la demo solo con la interfaz web de Claude |

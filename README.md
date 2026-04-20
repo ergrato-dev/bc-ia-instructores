@@ -21,9 +21,8 @@ Al finalizar, cada participante podrá:
 1. Explicar qué es la IA generativa y usarla con criterio ético en contextos de formación
 2. Diseñar prompts efectivos para crear materiales pedagógicos (guías, rúbricas, RAP, GFPI)
 3. Navegar la estructura de contenidos tipo bootcamp del repositorio `ergrato-dev`
-4. Comprender qué hace Syllabot y cómo acceder a él
-5. Distinguir entre chatbot, agente IA y pipeline automatizado
-6. Entender qué es el protocolo MCP con ejemplos concretos
+4. Distinguir entre chatbot, agente IA y pipeline automatizado
+5. Entender qué es el protocolo MCP con ejemplos concretos
 
 ---
 
@@ -34,7 +33,7 @@ Al finalizar, cada participante podrá:
 | M0 | Bienvenida y encuadre | 10 min |
 | M1 | IA en formación: fundamentos y panorama | 30 min |
 | M2 | Prompting para instructores | 45 min |
-| M3 | Syllabot y repos `bc-` en GitHub | 35 min |
+| M3 | Repos `bc-` en GitHub | 35 min |
 | M4 | Agentes IA y MCP | 40 min |
 | M5 | Cierre, Q&A y próximos pasos | 20 min |
 | **Total** | | **~3 horas** |
@@ -50,7 +49,7 @@ bc-ia-instructores/
 │   ├── M0-bienvenida.md
 │   ├── M1-fundamentos-ia.md
 │   ├── M2-prompting.md
-│   ├── M3-syllabot-repos.md
+│   ├── M3-repos-bc.md
 │   ├── M4-agentes-mcp.md
 │   └── M5-cierre.md
 ├── talleres/
@@ -93,7 +92,6 @@ bc-ia-instructores/
 | Gemini | [gemini.google.com](https://gemini.google.com) | Gratis |
 | Perplexity | [perplexity.ai](https://perplexity.ai) | Gratis |
 | GitHub Copilot | [github.com/features/copilot](https://github.com/features/copilot) | Pago |
-| Syllabot | [syllabot.ergrato.dev](https://syllabot.ergrato.dev) | Interno SENA |
 | Docs MCP | [modelcontextprotocol.io](https://modelcontextprotocol.io) | Gratis |
 
 ---

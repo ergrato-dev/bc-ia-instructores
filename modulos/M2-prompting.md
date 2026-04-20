@@ -175,7 +175,7 @@ Proyectar la pantalla. Mostrar el prompt, la respuesta y una iteración rápida.
 
 ### Transición a M3
 
-> "Muy bien. Ahora les voy a mostrar cómo yo organizo estos contenidos que generamos —ya sea con IA o sin ella— en repositorios de GitHub que después se conectan a Syllabot."
+> "Muy bien. Ahora les voy a mostrar cómo yo organizo estos contenidos que generamos —ya sea con IA o sin ella— en repositorios de GitHub para que cualquier aprendiz pueda acceder a ellos directamente."
 
 ---
 
