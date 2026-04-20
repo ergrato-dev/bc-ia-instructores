@@ -164,6 +164,12 @@ Duración total(semanas): 20
 Dedicación estimada(semana): 8h
 Estado (completitud): En progreso (8/20 semanas — 40%)
 
+### 1.2.4 bc-mcp
+Enlace repo: https://github.com/ergrato-dev/bc-mcp
+Duración total(semanas): 12
+Dedicación estimada(semana): 8h
+Estado (completitud): Completo (12/12 semanas — 100%)
+
 ### 1.2.4 bc-pytorch
 Enlace repo: https://github.com/ergrato-dev/bc-pytorch
 Duración total(semanas): 24
